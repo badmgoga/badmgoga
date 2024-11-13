@@ -7,3 +7,6 @@ You can click the Preview link to take a look at your changes.
 Мои задачи на литкоде:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Aivengobot?theme=nord)
+# Цитата дня:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/badmgoga/github-readme-quotes)
